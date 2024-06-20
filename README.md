@@ -2,6 +2,7 @@
 2. https://katynextevents.vercel.app/
 3. https://katynextblog.vercel.app/
 4. https://katynextauth.vercel.app/
+5. https://katynextreactmeetups.vercel.app/
 
 
 # Next.js & React - The Complete Guide
