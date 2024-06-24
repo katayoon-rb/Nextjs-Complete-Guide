@@ -5,6 +5,8 @@
 5. https://katynextreactmeetups.vercel.app/
 6. https://katynextnews.vercel.app/
 7. https://katynextposts.vercel.app/
+8. https://katynextsports.vercel.app/
+
 
 
 # Next.js & React - The Complete Guide
